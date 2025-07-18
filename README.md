@@ -55,8 +55,8 @@ Full-stack job portal with admin-user flows.
 
 ## 📊 GitHub Stats
 
-![Jainish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jainishrupala&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jainishrupala&layout=compact&theme=radical)
+![Jainish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KINGs2302&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KINGs2302&layout=compact&theme=radical)
 
 ---
 
