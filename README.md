@@ -49,7 +49,7 @@ I build secure, scalable, and user-friendly web applications with real-world imp
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jainishrupala)  
-[![Gmail](https://img.shields.io/badge/-jainishrupala.dev@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jainishrupala.dev@gmail.com)
+[![Gmail](https://img.shields.io/badge/-jainishrupala@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jainishrupala@gmail.com)
 
 ---
 
